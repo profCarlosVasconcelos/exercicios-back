@@ -3,9 +3,9 @@ package Exercicios;
 public class Exercicio06 {
 
 	public static void main(String[] args) {
-		float valorA = 3.0f;
-		float valorB = 4.0f;
-		float valorC = 5.2f;
+		float valorA = 0.0f;
+		float valorB = 0.0f;
+		float valorC = 0.0f;
 		final double pi = 3.14159;
 		
 		double trianguloRetangulo = (valorA * valorC) / 2;
