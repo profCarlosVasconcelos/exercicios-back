@@ -6,7 +6,8 @@ public class Exercicio01 {
 		int valor01 = 0;
 		int valor02 = 0;
 		
-		System.out.println("SOMA: " + (valor01 + valor02));
+		System.out.println("SOMA: " + (valor01 + valor02)); //Procure atribuir responsabilidades a cada trecho do seu código
+															//O recomendado é não misturar as atribuições.
 
 	}
 
